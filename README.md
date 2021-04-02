@@ -20,6 +20,7 @@ npm start
 **Note:  implemented the data store with mongodb as well**
 
 ### `frontend`
+.. open another terminal
 
 ```
 cd frontend
